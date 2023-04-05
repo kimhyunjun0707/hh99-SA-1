@@ -3,7 +3,7 @@ package Baseball;
 
 import java.util.Scanner;
 
-public class Baseballpare {
+public class Baseball {
     //랜덤한 숫자를 생성하는 메소드
     public int getRandomInt(int min, int max){
         int Random = (int) (Math.random() * (max - min + 1) + min);
